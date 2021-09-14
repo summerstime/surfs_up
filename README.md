@@ -3,9 +3,9 @@ Module 9 Challenge
 
 ## Overview
 This project is to satisfy Module 9 of the Data Analytics Bootcamp. The tasks for this challenge include the analysis of temperatures in Hawaii (Oahu, specifically) and
-determining if the surf shop business should move forward. W. Avy is the investor who has prior experience with opening surf shops in Hawaii. However, his prior experience
-what not positive, since he did not perform analysis on the weather. Included in this surf shop business idea is serving of ice cream.
-With data that W. Avy has provided for Oahu, an analysis was performed. The results are shown below with a summary of other aspects that could be investigated before signing on to move forward.
+to determine if the surf shop business should move forward. W. Avy is the investor who has prior experience with opening surf shops in Hawaii. However, his prior experience
+was not positive, since he did not perform analysis on the weather. Included in this surf shop business idea is serving of ice cream.
+With data that W. Avy has provided for Oahu, an analysis was performed. The results are shown below with a summary of other aspects that could be investigated before signing onto the project to move forward.
 
 ### Results - Months of June and December across multiple years (Fahrenheit)
 * 😎 June Data - Total data points (1700)
